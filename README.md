@@ -16,7 +16,7 @@ requerimientos:
   llame
 
 ## Diagrama UML
-  
+  ![UML](UML.jpg)
   
 ## Detalles
 
