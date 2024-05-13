@@ -42,5 +42,5 @@ _NationalCall_
 Nuevamente le asigné un valor fijo al costo solo para simplificar, entendiendo que segun el codigo recibido a 
 traves de callTo se podria establecer qué precio tienen las llamadas, tanto nacionales como internacionales.
 
-  
+Y por último, en la parte Tests esta el código que utilicé para cargar algunos datos y probar el funcionamiento. Algunas cosas necesitan correcciones porque no terminaba de correr completamente.
   
